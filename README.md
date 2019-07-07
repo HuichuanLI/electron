@@ -23,4 +23,4 @@ npm run dist
 ```
 
 ![效果图](1.gif)
-[download](https://github.com/HuichuanLI/electron/raw/master/simple-music-player-1.0.0.dmg)
+直接使用[download](https://github.com/HuichuanLI/electron/raw/master/simple-music-player-1.0.0.dmg)：）
